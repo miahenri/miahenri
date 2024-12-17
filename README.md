@@ -17,15 +17,15 @@ Here are some of my notable projects:
 
 
 ## Technologies & Tools
-- Programming Languages: [Kotlin](https://kotlinlang.org/docs/home.html) 
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Programming Languages: [Kotlin](https://kotlinlang.org/docs/home.html),
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), 
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS),
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - Frameworks & Libraries: [Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-- Tools & Platforms: [GitHub](https://github.com)
-[Figma](https://www.figma.com/de-de/)
-[VS Code](https://code.visualstudio.com) 
-[IntelliJ](https://www.jetbrains.com/de-de/idea/)
+- Tools & Platforms: [GitHub](https://github.com),
+[Figma](https://www.figma.com/de-de/),
+[VS Code](https://code.visualstudio.com), 
+[IntelliJ](https://www.jetbrains.com/de-de/idea/),
 [Docker](https://www.docker.com/get-started/)
 
 ## GitHub Stats
