@@ -11,6 +11,7 @@ Please check out my [portfolio!](https://miahenri.github.io/mia-portfolio/)
 ## Projects
 Here are some of my notable projects:
 
+- [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify) - The web application Shrinkify automatically optimizes large files, such as images, videos, and audio, by compressing them before they are uploaded to a content management system (CMS).
 - [BrushTalk](https://github.com/ricardotimmr/iot-brushtalkdevice) - BrushTalk is a project designed to connect with your long distance friends. The device records audio messages up to 3 minutes long and sends them to your friends. That way your friends can listen to your stories while brushing their teeth.
 - [Groovents](https://github.com/ricardotimmr/timm_henrichsmeyer_zink_GDW_WS2324) - Groovents is a web service to find concerts and events for your taste in music. It shows concerts on the next few days in your area and also checks the weather for possible open air venues.
 - [PomodoroPro](https://github.com/miahenri/PomodoPro-Team22) - This android app is a Pomodoro timer for a better studying experience.
