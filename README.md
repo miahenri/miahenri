@@ -4,11 +4,11 @@
 I am a passionate software developer with a keen interest in web design and web development. I enjoy learning new technologies and applying them to solve real-world problems.
 Please check out my [portfolio!](https://miahenri.github.io/mia-portfolio/)
 
-👩🏽‍💻 I’m currently working on [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify)
-📚 I’m currently studying Media Informatics at TH Köln
-💬 Ask me about webdesign and development
-📮 How to reach me: miahenrichsmeyer@gmail.com
-🃏 Fun fact: I love concerts and went to 15 concerts in 2024.
+👩🏽‍💻 I’m currently working on [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify)<br>
+📚 I’m currently studying Media Informatics at TH Köln<br>
+💬 Ask me about webdesign and development<br>
+📮 How to reach me: miahenrichsmeyer@gmail.com<br>
+🃏 Fun fact: I love concerts and went to 15 concerts in 2024.<br>
 
 ## Projects
 Here are some of my notable projects:
@@ -19,16 +19,16 @@ Here are some of my notable projects:
 
 
 ## Technologies & Tools
-- Programming Languages: ![Kotlin](https://kotlinlang.org/docs/home.html) 
-![HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-![CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- Frameworks & Libraries: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-- Tools & Platforms: ![GitHub](https://github.com)
-![Figma](https://www.figma.com/de-de/)
-![VS Code](https://code.visualstudio.com) 
-![IntelliJ](https://www.jetbrains.com/de-de/idea/)
-![Docker](https://www.docker.com/get-started/)
+- Programming Languages: [Kotlin](https://kotlinlang.org/docs/home.html) 
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Frameworks & Libraries: [Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+- Tools & Platforms: [GitHub](https://github.com)
+[Figma](https://www.figma.com/de-de/)
+[VS Code](https://code.visualstudio.com) 
+[IntelliJ](https://www.jetbrains.com/de-de/idea/)
+[Docker](https://www.docker.com/get-started/)
 
 ## GitHub Stats
 ![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=miahenri&show_icons=true&theme=radical)
