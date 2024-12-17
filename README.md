@@ -2,7 +2,7 @@
 I am a passionate software developer with a keen interest in web design and web development. I enjoy learning new technologies and applying them to solve real-world problems.
 Please check out my [portfolio!](https://miahenri.github.io/mia-portfolio/)
 
-👩🏽‍💻 I’m currently working on [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify)<br>
+👩🏽‍💻 At the moment I’m working on [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify)<br>
 📚 I’m currently studying Media Informatics at TH Köln<br>
 💬 Ask me about webdesign and development<br>
 📮 How to reach me: miahenrichsmeyer@gmail.com<br>
