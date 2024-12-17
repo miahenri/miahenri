@@ -1,6 +1,4 @@
 # Hi there, I'm Mia!🌟 
-
-## About Me
 I am a passionate software developer with a keen interest in web design and web development. I enjoy learning new technologies and applying them to solve real-world problems.
 Please check out my [portfolio!](https://miahenri.github.io/mia-portfolio/)
 
