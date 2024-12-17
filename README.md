@@ -14,6 +14,7 @@ Here are some of my notable projects:
 - [BrushTalk](https://github.com/ricardotimmr/iot-brushtalkdevice) - BrushTalk is a project designed to connect with your long distance friends. The device records audio messages up to 3 minutes long and sends them to your friends. That way your friends can listen to your stories while brushing their teeth.
 - [Groovents](https://github.com/ricardotimmr/timm_henrichsmeyer_zink_GDW_WS2324) - Groovents is a web service to find concerts and events for your taste in music. It shows concerts on the next few days in your area and also checks the weather for possible open air venues.
 - [PomodoroPro](https://git-ce.rwth-aachen.de/moxdlab/moco2024/pomodopro-team22) - This android app is a Pomodoro timer for a better studying experience.
+- [ProxyParcelBox](- [PomodoroPro](https://git-ce.rwth-aachen.de/moxdlab/moco2024/pomodopro-team22) - ProxyParcelBox is a web-based platform that helps users identify which neighbor accepted their package when they weren’t home and allows them to arrange a convenient pickup time.
 
 
 ## Technologies & Tools
