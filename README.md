@@ -30,11 +30,6 @@ Here are some of my notable projects:
 [IntelliJ](https://www.jetbrains.com/de-de/idea/),
 [Docker](https://www.docker.com/get-started/)
 
-## GitHub Stats
-![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=miahenri&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miahenri&layout=compact&theme=radical)
 
 Thank you for visiting my profile!
 Feel free to check out my repositories and get in touch!
